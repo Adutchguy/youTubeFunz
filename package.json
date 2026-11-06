@@ -1,0 +1,16 @@
+{
+  "name": "youtubefunz",
+  "version": "1.0.0",
+  "description": "A local playground for exploring the YouTube Data API v3 and YouTube Analytics API",
+  "private": true,
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}
